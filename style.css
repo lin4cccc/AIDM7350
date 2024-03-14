@@ -1,0 +1,59 @@
+
+p
+{color:red;
+font-size:28px;
+}
+
+
+p:hover {
+    background:green;
+    }
+
+    
+.standout
+{color:blueviolet
+}
+    
+
+h2.standout:hover
+{color:orange
+
+
+}
+
+.image1
+{
+
+    border-radius:50%
+
+}
+
+.image2
+{
+
+    border-radius: 10px;
+
+}
+
+
+.image3
+{
+
+    opacity:0.2;
+
+}
+
+.image4
+{
+
+    filter:grayscale(100%);
+
+}
+
+
+.image5
+{
+
+    filter:blur(5px);
+
+}
